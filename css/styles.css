@@ -42,3 +42,27 @@ li a {
 		font-weight:300;
 		color:#FFF;
 	}
+
+
+
+
+#products{
+
+}
+	.products{
+		width:100%;
+	}
+
+.footer{
+	height:250px;
+	background-color:#262626;
+	padding-top:50px;
+	margin-top:50px;
+	color:#e6e6e6;
+}
+
+
+.logoFt{
+	width:25%;
+	margin-left:175px;
+}
