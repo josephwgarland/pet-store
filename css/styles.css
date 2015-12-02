@@ -1,6 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Satisfy|Open+Sans:400,300,700);
 
 
+
+
 /*//////////////HEADER/////////////*/
 .logo{
 	width:90px;
@@ -90,3 +92,22 @@ footer .fine-print{
 	color:#505050;
 }
 /*END OF FOOTER*/
+
+/*media queries*/
+
+@media (max-width:767px) {
+	.center{
+		float:none;
+		margin:0 auto;
+	}
+	.bottom{
+		top:0;
+	}
+	.social{
+		text-align:center;
+		font-size:45px;
+	}
+	.social i{
+		margin:20px 10px 0px;	
+	}
+}
